@@ -38,5 +38,5 @@ img{
     flex-grow: 1;
 }
 .active h4{
-    opacity: 1 |important; 
+    opacity: 1 !important; 
 }
